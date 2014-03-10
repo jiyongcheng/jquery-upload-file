@@ -1,4 +1,3 @@
-test
 #[jQuery Upload File](http://hayageek.com/docs/jquery-upload-file.php)
 
 ##Overview
